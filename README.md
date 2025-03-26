@@ -11,4 +11,4 @@ You can contact me through one of my social media.
 ## Stats just for fun:
 ![Michele's github stats](https://github-readme-stats.vercel.app/api?username=mgambarrota&count_private=true&show_icons=true&theme=dracula&hide=issues&card_width=500)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgambarrota&layout=compact&show_icons=true&theme=dracula&hide=issues&card_width=500)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgambarrota&show_icons=true&theme=dracula&hide=issues&card_width=500)
